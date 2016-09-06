@@ -1,0 +1,5 @@
+c:\users\daldridge\documents\visual studio 2013\Projects\ShiftSrt\ShiftSrt\bin\Release\ShiftSrt.exe
+c:\users\daldridge\documents\visual studio 2013\Projects\ShiftSrt\ShiftSrt\bin\Release\ShiftSrt.pdb
+c:\users\daldridge\documents\visual studio 2013\Projects\ShiftSrt\ShiftSrt\obj\Release\ShiftSrt.exe
+c:\users\daldridge\documents\visual studio 2013\Projects\ShiftSrt\ShiftSrt\obj\Release\ShiftSrt.pdb
+C:\Users\DAldridge\documents\visual studio 2013\Projects\ShiftSrt\ShiftSrt\obj\Release\ShiftSrt.csprojResolveAssemblyReference.cache
